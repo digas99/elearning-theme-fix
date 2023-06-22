@@ -6,7 +6,7 @@ This might happen because your account is linked to the theme ```Adaptable```(Cl
 [Click here](https://docs.moodle.org/402/en/Standard_themes) for more information on Moodle's Standard Themes.
 
 ## Fix
-Copy the following script to the Browser's URL field, **make sure ```javascript:``` is still there** (if not, write it manually), and press ENTER.
+Copy the following script to the Browser's URL field, **make sure ```javascript:``` is still there *(if not, write it manually)***, and press ENTER.
 ```javascript
 javascript:window.location="https://elearning.ua.pt/theme/switchdevice.php?url=https://elearning.ua.pt/&device=mobile&sesskey="+M.cfg.sesskey
 ```
