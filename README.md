@@ -13,7 +13,9 @@ javascript:window.location="https://elearning.ua.pt/theme/switchdevice.php?url=h
 This script simply follows the given URL which changes the page theme. It passes the Moodle Session Key in the URL Parameter ```sesskey``` (mandatory).  
 If you want to return to the Classic theme, change the URL Parameter ```device``` from '*mobile*' to '*default*'.  
 
-If the browser does not allow you to run the script through the Address Bar, you can also run it inside the **Console** on ```DevTools``` *(F12 or CTRL + SHIFT + I)*, which is not straightforward if you are using Chrome on mobile [(how to here)](https://developer.chrome.com/blog/devtools-mobile/#easy-remote-debugging).
+If the browser does not allow you to run the script through the Address Bar, you can also run it inside the **Console** on ```DevTools``` *(F12 or CTRL + SHIFT + I)*, which is not straightforward if you are using Chrome on mobile [(how to here)](https://developer.chrome.com/blog/devtools-mobile/#easy-remote-debugging).  
+
+***Disclaimer:** It is not clear if running the above script on one device will change the theme for all devices (it might, I'm not sure) so you should run it on whatever device you want the theme to change.*
 
 ## Result
 
