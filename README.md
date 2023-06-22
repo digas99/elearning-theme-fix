@@ -6,12 +6,12 @@ For more information on Moodle's Standard Themes [click here](https://docs.moodl
 
 ## Fix
 
-- Navigate to any [elearning.ua.pt](https://elearning.ua.pt) page (make sure you're logged in)
-- Copy the following script to the Address Bar - **make sure ```javascript:``` is still there when you paste it *(if not, write it manually)***
+1. Navigate to any [elearning.ua.pt](https://elearning.ua.pt) page (make sure you're logged in)
+2. Copy the following script to the Address Bar - **make sure ```javascript:``` is still there when you paste it *(if not, write it manually)***
 ```javascript
 javascript:window.location="https://elearning.ua.pt/theme/switchdevice.php?url=https://elearning.ua.pt/&device=mobile&sesskey="+M.cfg.sesskey
 ```
-- Press ENTER (or any similar action) to run the script
+3. Press ENTER (or any similar action) to run the script
 
 This script simply follows the given URL which changes the page theme. It passes the Moodle Session Key in the URL Parameter ```sesskey``` (mandatory), which is the reason why it must be a script (and not a plain URL).  
 If you want to return to the Classic theme, change the URL Parameter ```device``` from '*mobile*' to '*default*'.  
