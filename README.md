@@ -18,4 +18,4 @@ If the browser does not allow you to run the script through the Address Bar, you
 ## Result
 
 Moodle should go from the interface on the left, to the one on the right.
-![elearning-themes](https://github.com/digas99/elearning-theme-fix/assets/45766898/ae5ce28b-3f04-4bcc-abcb-2c014033b391)
+![elearning-themes](https://github.com/digas99/elearning-theme-fix/assets/45766898/c7be3520-34a0-4f5e-8eec-580618e20151)
