@@ -23,7 +23,8 @@ If the browser does not allow you to run the script through the Address Bar, you
 If still in doubt, this is how the script should look like in the Address Bar:
 ![elearning-themes-script](https://github.com/digas99/elearning-theme-fix/assets/45766898/7e60ed48-20cb-4ae5-820d-bf2cb5d4b5d9)
 
-***Disclaimer:** It is not clear if running the above script on one device will change the theme for all devices (it might, I'm not sure) so you should run it on whatever device you want the theme to change.*
+> **Note**
+> *It is not clear if running the above script on one device will change the theme for all devices (it might, I'm not sure) so you should run it on whatever device you want the theme to change.*
 
 ## Result
 
